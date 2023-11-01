@@ -1,4 +1,4 @@
-module ordered
+module scattergather
 
 go 1.21.1
 
