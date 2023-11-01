@@ -1,4 +1,4 @@
-module scattergather
+module github.com/technicianted/ordered-scattergather
 
 go 1.21.1
 
