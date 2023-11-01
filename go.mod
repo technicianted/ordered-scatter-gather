@@ -1,4 +1,4 @@
-module ordered-scatter-gather
+module ordered
 
 go 1.21.1
 
